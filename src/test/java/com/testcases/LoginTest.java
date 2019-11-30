@@ -24,7 +24,7 @@ public class LoginTest extends Page {
 		LoginPage login=new LoginPage();
 		login.doLogin("username", "password");
 		String actual = Page.driver.getTitle();
-		System.out.println("welcome to git");
+		
 		String expected="Zero - Account Summary";
 		Assert.assertEquals(actual, expected);
 		//test.log(LogStatus.INFO, "Login Test started");
