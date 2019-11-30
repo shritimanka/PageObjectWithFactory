@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model with Page Factory" duration-ms="11798" started-at="2019-11-30T17:52:19Z" finished-at="2019-11-30T17:52:31Z">
+    <groups>
+    </groups>
+    <test name="Sign in Test" duration-ms="6055" started-at="2019-11-30T17:52:19Z" finished-at="2019-11-30T17:52:25Z">
+      <class name="com.testcases.SignInTest">
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:com.testcases.SignInTest@587e5365]" name="signInTest" duration-ms="5816" started-at="2019-11-30T17:52:19Z" finished-at="2019-11-30T17:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- com.testcases.SignInTest -->
+    </test> <!-- Sign in Test -->
+    <test name="Login Test" duration-ms="5709" started-at="2019-11-30T17:52:25Z" finished-at="2019-11-30T17:52:31Z">
+      <class name="com.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.testcases.LoginTest@7ee8290b]" name="loginTest" duration-ms="5636" started-at="2019-11-30T17:52:25Z" finished-at="2019-11-30T17:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Page Object Model with Page Factory -->
+</testng-results>

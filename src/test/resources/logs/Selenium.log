@@ -1,0 +1,9 @@
+17:17:22,935 DEBUG busyQALogger:49 - Launching Chrome Browser
+17:17:25,792 DEBUG busyQALogger:21 - clicking signin button
+17:17:26,172 DEBUG busyQALogger:20 - type username
+17:17:26,679 DEBUG busyQALogger:23 - type password
+17:17:26,864 DEBUG busyQALogger:26 - click submit button
+17:17:28,284 DEBUG busyQALogger:60 - Closing Browser
+17:17:30,887 DEBUG busyQALogger:49 - Launching Chrome Browser
+17:17:32,716 DEBUG busyQALogger:21 - clicking signin button
+17:17:33,640 DEBUG busyQALogger:60 - Closing Browser
